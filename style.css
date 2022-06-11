@@ -1,0 +1,14 @@
+header {
+  height: 100px;
+  background-color: crimson;
+}
+
+main {
+  height: 80vh;
+  background-color: teal;
+}
+
+footer {
+  height: 10vh;
+  background-color: violet;
+}/*# sourceMappingURL=style.css.map */
