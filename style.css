@@ -1,6 +1,6 @@
 header {
   height: 100px;
-  background-color: crimson;
+  background-color: darkgreen;
 }
 header:hover {
   background-color: aquamarine;
@@ -8,10 +8,10 @@ header:hover {
 
 main {
   height: 80vh;
-  background-color: teal;
+  background-color: lightblue;
 }
 
 footer {
   height: 10vh;
-  background-color: violet;
+  background-color: darkred;
 }/*# sourceMappingURL=style.css.map */

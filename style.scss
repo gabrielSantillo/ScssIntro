@@ -1,6 +1,11 @@
+$main_green_color: darkgreen;
+$main_blue_color: lightblue;
+$main_red_color: darkred;
+
+
 header {
     height: 100px;
-    background-color: crimson;
+    background-color: $main_green_color;
 
     &:hover {
         background-color: aquamarine;
@@ -9,10 +14,10 @@ header {
 
 main {
     height: 80vh;
-    background-color: teal;
+    background-color: $main_blue_color;
 }
 
 footer {
     height: 10vh;
-    background-color: violet;
+    background-color: $main_red_color;
 }
