@@ -2,6 +2,9 @@ header {
   height: 100px;
   background-color: crimson;
 }
+header:hover {
+  background-color: aquamarine;
+}
 
 main {
   height: 80vh;
